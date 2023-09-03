@@ -10,11 +10,8 @@
 
 Setup
 
-Authentication
+Authentication and Authentication
 
-API Endpoints
-
-Book Schema
 
 # Getting started
 
@@ -25,9 +22,7 @@ To get started with this project, follow these steps:
 3. Start the project using "npm start"
 4. I have deployed this project on render.com you make API requests from postman on this URL: https://bookmanagementsystembackend.onrender.com
 
-# API Endpoints
-
-Authentication
+# API Endpoints and Authentication
 
 User authentication is implemented using JSON Web Tokens (JWT). Users can perform the following authentication actions:
 
