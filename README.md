@@ -3,6 +3,9 @@
  This RESTful API is designed to manage a collection of books with user authentication.
  It allows users to perform CRUD (Create, Read, Update, Delete) operations on book entries while implementing secure user authentication using JSON Web Tokens (JWT).
 
+ Get Request
+ ![Get Request](get%20request.png)
+
 #  Table of Contents
 
 Setup
